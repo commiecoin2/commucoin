@@ -23,7 +23,7 @@
 //TODO ((uint64_t)(-1)) equals to 18446744073709551616 coins
 //TODO or you can define number explicitly UINT64_C(858986905600000000)
 #define MONEY_SUPPLY   UNIT64_C(83837461541254364310000000000000000000000000000)                                 
-#define EMISSION_SPEED_FACTOR                           (18)
+#define EMISSION_SPEED_FACTOR                           (240)
 
 //TODO Define number of blocks for block size median calculation
 #define CRYPTONOTE_REWARD_BLOCKS_WINDOW                 100
